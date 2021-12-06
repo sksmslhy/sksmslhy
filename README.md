@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 Hello. My name is HayunLEE.  
 
 
-- 🔭 I am a B.S student in **[Chung-Ang University](https://www.cau.ac.kr/index.do)**(2019.03-2023.02(expected)).  
-- 💻 My major is **[Computer Science & Engineering](https://cse.cau.ac.kr/main.php)**.  
+- 🔭 I am a B.S student in **Chung-Ang University**(2019.03 - Present).  
+- 💻 My major is **Computer Science & Engineering**.  
 - 🧐 I am interested in **Robotics**, **Deep Learning**.
 
 
