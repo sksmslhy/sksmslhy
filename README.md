@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 🙋🏻‍♀️ My name is Hayun Lee.  
 - 🔭 I am a B.S student in **Chung-Ang University**(2019.03 - Present).  
 - 💻 My major is **Computer Science & Engineering**.  
-- 🧐 I am interested in **Robotics**, **Deep Learning**.
+- 🧐 I am interested in **Deep Learning**, **Computer Vision**.
 
